@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectCMS.iml" filepath="$PROJECT_DIR$/.idea/ProjectCMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../array/.idea/array.iml" filepath="$PROJECT_DIR$/../array/.idea/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../assignments/.idea/assignments.iml" filepath="$PROJECT_DIR$/../assignments/.idea/assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/.idea/modules.iml" filepath="$PROJECT_DIR$/../modules/.idea/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oops/.idea/oops.iml" filepath="$PROJECT_DIR$/../oops/.idea/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projectongit/.idea/projectongit.iml" filepath="$PROJECT_DIR$/../projectongit/.idea/projectongit.iml" />
+    </modules>
+  </component>
+</project>
